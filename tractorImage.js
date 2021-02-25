@@ -29,3 +29,7 @@ window.addEventListener('load',async ()=>{
     }
 })
 
+//TODO: encode params with encodeURIComponent
+//TODO: read : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/encodeURIComponent
+//TODO: read https://developer.mozilla.org/en-US/docs/Web/API/Beacon_API
+// keywords: web beacon, image beacon
